@@ -1,6 +1,3 @@
-# James May
-
-# Engineering Portfolio
 
 # Rockets
 [Fool's Journey](http://maybeengineering.com/Rockets/Fool's%20Journey)
