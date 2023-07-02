@@ -3,7 +3,7 @@
 # Projects
 ## Rockets
 [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey)
-<img src="FoolsJourney_1.jpg"  width="600" height="300">
+<img src="FoolsJourney_1.jpg" height="300">
 
 [KONG](http://vlarko.com/Rockets/KONG)
 
