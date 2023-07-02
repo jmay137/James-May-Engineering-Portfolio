@@ -2,15 +2,15 @@
 
 # Projects
 ## Rockets
-| [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey) | 
-| - |
-| <img src="FoolsJourney_1.jpg" height="400"> |
+| [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey) | [Mayfly](http://vlarko.com/Rockets/Mayfly) | [Mayflower](http://vlarko.com/Rockets/Mayflower) |
+| - | - | - |
+| <img src="FoolsJourney_1.jpg" height="400"> | <"L1_2.jpg" height="400"> | <img src="mayflower ice.jpg" height="400"> | 
 
 [KONG](http://vlarko.com/Rockets/KONG)
 
-[Mayflower](http://vlarko.com/Rockets/Mayflower)
 
-[Mayfly](http://vlarko.com/Rockets/Mayfly)
+
+
 
 [Mayhem](http://vlarko.com/Rockets/Mayhem)
 
