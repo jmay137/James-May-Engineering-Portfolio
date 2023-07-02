@@ -1,3 +1,5 @@
+# [About Me](http://vlarko.com/About%20Me)
+
 # Projects
 ## Rockets
 [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey)
