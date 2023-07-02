@@ -1,10 +1,10 @@
 5th year student at Rochester Institute of Technology, working towards a BS & MS in Electrical Engineering with a Robotics option, as well as a minor in Mechanical Engineering. Currently on track to complete both degrees by 2023. Specific interests in Aerospace, Rocketry, Avionics Systems, Robotics, AI, and Space Exploration.
 
-EDUCATION (Completed)  
+# EDUCATION (Completed)  
 ​  
 Advanced Regents Diploma with Honors - Oswego High School
 
-EDUCATION (Currently Pursuing)  
+# EDUCATION (Currently Pursuing)  
   
 BS Electrical Engineering - Rochester Institute of Technology  
 MS Electrical Engineering - Rochester Institute of Technology  
@@ -12,9 +12,9 @@ MS Electrical Engineering - Rochester Institute of Technology
 Mechanical Engineering Minor - Rochester Institute of Technology  
 ​ASL Immersion - Rochester Institute of Technology
 
-SKILLS  
+# SKILLS  
 ​  
-DESIGN
+## DESIGN
 
 - ​CAD in Autodesk Fusion 360
 - PCB Design in Altium
@@ -27,7 +27,7 @@ DESIGN
 - Software dev in Vim & VS Code
 
   
-PROGRAMMING
+## PROGRAMMING
 
 - C
 - C++
@@ -39,20 +39,20 @@ PROGRAMMING
 - MATLAB
 
   
-CERTIFICATIONS
+## CERTIFICATIONS
 
 - Tripoli L2 High Power Rocket Certified
 - Amateur Radio Technician’s License
 
 ​​  
-SOFT SKILLS
+## SOFT SKILLS
 
 - Leadership experience
 - Self-motivated​
 - Willing to learn
 
   
-OTHER SKILLS
+## OTHER SKILLS
 
 - Familiarity with both Linux and Windows OS
 - Hand soldering capability down to SMD level
@@ -62,7 +62,7 @@ OTHER SKILLS
     - Limited machining experience
 
 
-WORK  & LEADERSHIP EXPERIENCE  
+# WORK  & LEADERSHIP EXPERIENCE  
 ​  
 **RIT Launch Initiative                                    
 Rochester, NY**  
