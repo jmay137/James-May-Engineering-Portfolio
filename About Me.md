@@ -1,10 +1,11 @@
 5th year student at Rochester Institute of Technology, working towards a BS & MS in Electrical Engineering with a Robotics option, as well as a minor in Mechanical Engineering. Currently on track to complete both degrees by 2023. Specific interests in Aerospace, Rocketry, Avionics Systems, Robotics, AI, and Space Exploration.
 
-# EDUCATION (Completed)  
+# EDUCATION 
+## Completed  
 ​  
 Advanced Regents Diploma with Honors - Oswego High School
 
-# EDUCATION (Currently Pursuing)  
+## Currently Pursuing  
   
 BS Electrical Engineering - Rochester Institute of Technology  
 MS Electrical Engineering - Rochester Institute of Technology  
