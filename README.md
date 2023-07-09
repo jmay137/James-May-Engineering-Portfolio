@@ -4,15 +4,13 @@
 | - | - | - |
 | <img src="FoolsJourney_1.jpg" height="400"> | <img src="L1_2.jpg" height="400"> | <img src="mayflower ice.jpg" height="400"> | 
 
-[KONG](http://vlarko.com/Rockets/KONG)
+| [KONG](http://vlarko.com/Rockets/KONG) | [Mayhem](http://vlarko.com/Rockets/Mayhem) | [Mayhem](http://vlarko.com/Rockets/Mayhem) |
+| - | - | - |
+| <img src="KONG_1.jpg" height="400"> | <img src="FoolsJourney_1.jpg" height="400"> | <img src="FoolsJourney_1.jpg" height="400"> |
 
-
-
-
-
-[Mayhem](http://vlarko.com/Rockets/Mayhem)
-
-[VOID](http://vlarko.com/Rockets/VOID)
+| [VOID](http://vlarko.com/Rockets/VOID) |
+| - |
+| <img src="FoolsJourney_1.jpg" height="400"> |
 
 ## Electronics
 [Backplane Power Module](http://vlarko.com/Electronics/Backplane%20Power%20Module)
