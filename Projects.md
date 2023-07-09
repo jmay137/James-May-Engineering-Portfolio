@@ -28,5 +28,3 @@
 [HPR Calculations Spreadsheet](http://vlarko.com/Other/HPR%20Calculations%20Spreadsheet)
 
 [HPR Safety Checker](http://vlarko.com/Other/HPR%20Safety%20Checker)
-
-# [About Me](http://vlarko.com/About%20Me)
