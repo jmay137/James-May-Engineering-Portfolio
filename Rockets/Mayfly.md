@@ -1,3 +1,5 @@
+# [Projects](http://vlarko.com/Projects)
+# Mayfly
 # Overview
 Mayfly was the first of my High Power Rocketry certification rockets. It is an L1-class High Power rocket, based on a kit developed by RIT Launch Initiative. It is made of phenolic cardboard tube, laser cut fins, and a custom 3d printed nose cone with a mount for a camera to film the launch from the rocket's perspective.
 
