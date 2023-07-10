@@ -1,3 +1,5 @@
+# [Projects](http://vlarko.com/Projects)
+# HPR Safety Checker
 # Overview
 
  The High Power Rocketry Safety Checker is a C++ application I wrote as my final project for my Advanced Programming course. It's purpose is to determine whether the high power rocket you've designed is safe to fly or not, by taking in the parameters of your rocket and calculating key parameters.  
