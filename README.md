@@ -12,7 +12,3 @@
 ## Robotics
 - Custom purpose-built robots
 - Experience with a variety of research robotics platforms (Baxter, Sawyer, Spot, etc)
-
-## Other
-- Variety of Python projects
-- High Power Rocketry support projects
