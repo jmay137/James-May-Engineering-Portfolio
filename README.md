@@ -7,7 +7,7 @@
 ## Rockets
 - Certification rockets, team built competition rockets, and technical demonstrators
 
-<img src="FoolsJourney_1.jpg" height="400">   <img src="L1_2.jpg" height="400">   <img src="mayflower ice.jpg" height="400">
+<img src="Photos/FoolsJourney_1.jpg" height="400">   <img src="Photos/L1_2.jpg" height="400">   <img src="Photos/L2_1.jpg" height="400">
 
 ## Robotics
 - Custom purpose-built robots
