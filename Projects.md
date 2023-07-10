@@ -2,15 +2,15 @@
 ## Rockets
 | [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey) | [Mayfly](http://vlarko.com/Rockets/Mayfly) | [Mayflower](http://vlarko.com/Rockets/Mayflower) |
 | - | - | - |
-| <img src="FoolsJourney_1.jpg" height="400"> | <img src="L1_2.jpg" height="400"> | <img src="mayflower ice.jpg" height="400"> | 
+| <img src="Photos/FoolsJourney_1.jpg" height="400"> | <img src="Photos/L1_2.jpg" height="400"> | <img src="Photos/L2_1.jpg" height="400"> | 
 
 | [KONG](http://vlarko.com/Rockets/KONG) | [Mayhem](http://vlarko.com/Rockets/Mayhem) | [Mayhem](http://vlarko.com/Rockets/Mayhem) |
 | - | - | - |
-| <img src="KONG_1.jpg" height="400"> | <img src="FoolsJourney_1.jpg" height="400"> | <img src="FoolsJourney_1.jpg" height="400"> |
+| <img src="Photos/KONG_1.jpg" height="400"> | <img src="Photos/FoolsJourney_1.jpg" height="400"> | <img src="Photos/FoolsJourney_1.jpg" height="400"> |
 
 | [VOID](http://vlarko.com/Rockets/VOID) |
 | - |
-| <img src="FoolsJourney_1.jpg" height="400"> |
+| <img src="Photos/FoolsJourney_1.jpg" height="400"> |
 
 ## Electronics
 [Backplane Power Module](http://vlarko.com/Electronics/Backplane%20Power%20Module)
