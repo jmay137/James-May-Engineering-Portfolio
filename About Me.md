@@ -112,7 +112,7 @@ Camp Counselor
 - Facilitated student discovery and exploration of STEAM principles in a summer camp environment
 
 
-AWARDS/RECOGNITION
+## AWARDS/RECOGNITION
 
 - RIT Honors Program member​
 
