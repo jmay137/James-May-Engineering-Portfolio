@@ -1,3 +1,5 @@
+# [Projects](http://vlarko.com/Projects)
+# Construct Badge
 # Overview
 The Construct Badge is an electronic badge, to be worn at the makerspace I currently work at at RIT, named the Construct. At the Construct, one of the things new employees must do is make their own badge, to make sure that everyone knows how to use the machines. Generally, this is done by laser cutting one out, but I decided I wanted yet another project to sink time into, so I decided to make an electronic one.   
   
