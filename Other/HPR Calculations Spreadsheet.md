@@ -1,3 +1,5 @@
+# [Projects](http://vlarko.com/Projects)
+# HPR Calculations Spreadsheet
 # Overview
 HPR Calculations Spreadsheet is a spreadsheet based tool that makes it as easy as possible to design a high power rocket, by compiling all the necessary calculations into one user friendly place.  
   
