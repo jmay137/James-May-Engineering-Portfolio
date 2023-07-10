@@ -5,7 +5,7 @@
 - Schematic layout and PCB design for Avionics Systems in Altium
 
 ## Rockets
-| <img src="FoolsJourney_1.jpg" height="400"> | <img src="L1_2.jpg" height="400"> | <img src="mayflower ice.jpg" height="400"> | 
+<img src="FoolsJourney_1.jpg" height="400"><img src="L1_2.jpg" height="400"><img src="mayflower ice.jpg" height="400">
 - Certification rockets, team built competition rockets, and technical demonstrators
 
 ## Robotics
