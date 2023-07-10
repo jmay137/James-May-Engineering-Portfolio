@@ -14,14 +14,12 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 ## SKILLS  
 ### DESIGN
 - ​CAD in Autodesk Fusion 360
-- PCB Design in Altium
-- PCB Manufacturing in FlatCAM
-- Simulation in LTSpice
-- High Power Rocket Design in OpenRocket  
-    
-- 3d Print Optimization in Cura/Flashprint
-- Vector Graphic Design in Inkscape
-- Software dev in Vim & VS Code
+- PCB design in Altium
+- PCB manufacturing in FlatCAM
+- Circuit simulation in LTSpice
+- High power rocket design in OpenRocket  
+- 3d-print optimization in Cura/Flashprint
+- Vector graphic design in Inkscape
 
   
 ### PROGRAMMING
@@ -29,7 +27,11 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 - C++
 - Embedded C
 - Python
-- Verilog
+- - Numpy
+  - Pandas
+  - PyQT6
+  - PyTorch
+  - Matplotlib
 - ROS/ROS 2
 - LaTeX
 - MATLAB
