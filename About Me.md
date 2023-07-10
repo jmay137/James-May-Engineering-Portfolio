@@ -15,6 +15,8 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 ### DESIGN
 - ​CAD in Autodesk Fusion 360
 - PCB design in Altium
+   - Low level power system design
+   - Schematic capture through ordering assembled boards
 - PCB manufacturing in FlatCAM
 - Circuit simulation in LTSpice
 - High power rocket design in OpenRocket  
@@ -27,7 +29,7 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 - C++
 - Embedded C
 - Python
-- - Numpy
+  - Numpy
   - Pandas
   - PyQT6
   - PyTorch
@@ -36,26 +38,22 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 - LaTeX
 - MATLAB
 
-  
 ### CERTIFICATIONS
 - Tripoli L2 High Power Rocket Certified
 - Amateur Radio Technician’s License
 
-​​  
 ### SOFT SKILLS
 - Leadership experience
 - Self-motivated​
 - Willing to learn
 
-  
 ### OTHER SKILLS
-- Familiarity with both Linux and Windows OS
+- Familiarity with both Linux and Windows operating systems
 - Hand soldering capability down to SMD level
 - Experience in rapid prototyping
     - Laser cutting
     - FDM 3D printing
     - Limited machining experience
-
 
 ## WORK  & LEADERSHIP EXPERIENCE  
 **RIT Launch Initiative                                    
@@ -66,7 +64,8 @@ President                                               �
 - Oversee all aspects of collegiate rocketry engineering team, including administrative tasks & project team guidance
 - Work with team leads, college administration, and corporate sponsors to further the team’s mission & promote growth
 
-Technical Lead                                             (August 2019 - May 2021)
+Technical Lead
+(August 2019 - May 2021)
 
 - Led multiple technical rocketry teams as part of the Space Race program
 - Taught inexperienced rocketry engineers fundamentals of high power rocketry & guided them towards success
@@ -90,7 +89,8 @@ Software Engineering Intern                      
   
 **Renesas Electronics America                      
 Hauppauge, NY**  
-Field Applications Engineering Intern       (May 2021 - August 2021)
+Field Applications Engineering Intern
+(May 2021 - August 2021)
 
 - Designed, manufactured, and documented projects demonstrating competitive qualities of company products
 - Conducted competitive analyses on semiconductor products
