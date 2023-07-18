@@ -1,4 +1,4 @@
-# [About Me](http://vlarko.com/About%20Me)  |  [Projects](http://vlarko.com/Projects)
+# [Projects](http://vlarko.com/Projects)  |  [About Me](http://vlarko.com/About%20Me)
 5th year student at Rochester Institute of Technology, working towards a BS & MS in Electrical Engineering with a Robotics option, as well as a minor in Mechanical Engineering. Currently on track to complete both degrees by 2023. Specific interests in Aerospace, Rocketry, Avionics Systems, Robotics, AI/ML, and Space Exploration.
 
 ## Electronics
