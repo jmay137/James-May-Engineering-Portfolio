@@ -4,7 +4,7 @@
 ## Electronics
 - Schematic layout and PCB design for Avionics Systems in Altium
 
-<img src="Photos/power mod real.jp" height="400">   <img src="Photos/ConstructBadge_3.PNG" height="400">   <img src="Photos/mlc altium 3d.png" height="400">
+<img src="Photos/power mod real.jpg" height="400">   <img src="Photos/ConstructBadge_3.PNG" height="400">   <img src="Photos/mlc altium 3d.png" height="400">
 
 ## Rockets
 - Certification rockets, team built competition rockets, and technical demonstrators
