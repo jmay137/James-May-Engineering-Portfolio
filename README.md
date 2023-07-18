@@ -4,6 +4,8 @@
 ## Electronics
 - Schematic layout and PCB design for Avionics Systems in Altium
 
+<img src="Photos/FoolsJourney_1.jpg" height="400">   <img src="Photos/L1_2.jpg" height="400">   <img src="Photos/L2_1.jpg" height="400">
+
 ## Rockets
 - Certification rockets, team built competition rockets, and technical demonstrators
 
