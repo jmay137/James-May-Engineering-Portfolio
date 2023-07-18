@@ -4,7 +4,7 @@
 ## Electronics
 - Schematic layout and PCB design for Avionics Systems in Altium
 
-<img src="Photos/mlc altium 3d.png" width="400" style="transform:rotate(90deg);">   <img src="Photos/L1_2.jpg" height="400">   <img src="Photos/L2_1.jpg" height="400">
+<img src="Photos/mlc altium 3d.png" height="400">   <img src="Photos/L1_2.jpg" height="400">   <img src="Photos/L2_1.jpg" height="400">
 
 ## Rockets
 - Certification rockets, team built competition rockets, and technical demonstrators
