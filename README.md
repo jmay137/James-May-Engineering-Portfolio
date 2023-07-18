@@ -4,7 +4,7 @@
 ## Electronics
 - Schematic layout and PCB design for Avionics Systems in Altium
 
-<img src="Photos/power mod real.jpg" height="400">   <img src="Photos/ConstructBadge_3.PNG" height="400">   <img src="Photos/mlc altium 3d.png" height="400">
+<img src="Photos/power mod real2.jpg" height="400">   <img src="Photos/ConstructBadge_3.PNG" height="400">   <img src="Photos/mlc altium 3d.png" height="400">
 
 ## Rockets
 - Certification rockets, team built competition rockets, and technical demonstrators
@@ -12,5 +12,5 @@
 <img src="Photos/FoolsJourney_1.jpg" height="400">   <img src="Photos/L1_2.jpg" height="400">   <img src="Photos/L2_1.jpg" height="400">
 
 ## Robotics
-- Custom purpose-built robot
+- Custom purpose-built robots
 - Experience with a variety of research robotics platforms (Baxter, Sawyer, Spot, etc)
