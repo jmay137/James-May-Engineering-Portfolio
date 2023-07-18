@@ -12,5 +12,5 @@
 <img src="Photos/FoolsJourney_1.jpg" height="400">   <img src="Photos/L1_2.jpg" height="400">   <img src="Photos/L2_1.jpg" height="400">
 
 ## Robotics
-- Custom purpose-built robots
+- Custom purpose-built robot
 - Experience with a variety of research robotics platforms (Baxter, Sawyer, Spot, etc)
