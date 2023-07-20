@@ -22,6 +22,7 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 - High power rocket design in OpenRocket  
 - 3d-print slicing in Cura/Flashprint
 - Vector graphic design in Inkscape
+- Solid Python background
 
   
 ### PROGRAMMING
