@@ -58,6 +58,7 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 ## WORK  & LEADERSHIP EXPERIENCE  
 **SpaceX**
 **Starbase, TX**
+
 Avionics Build Engineering Intern
 (May 2023 - August 2023)
 
@@ -86,7 +87,8 @@ Avionics Engineer                                        
 - Developed power module for a backplane flight computer in Altium, supported from design through implementation
 - Configuration/integration of COTS avionics systems
 
-   
+
+   
 **Collins Aerospace**                                         
 **Binghamton, NY**  
 Software Engineering Intern                        
@@ -104,6 +106,7 @@ Field Applications Engineering Intern
 
 - Designed, manufactured, and documented projects demonstrating competitive qualities of company products
 
+
   
 **The Construct - RIT Makerspace                
 Rochester, NY**  
@@ -113,6 +116,7 @@ Lab Manager                                              
 - Taught students proper use of machinery, manufacturing processes, and practical applications of engineering principles
 - Monitored Makerspace for safe and effective use of tools and equipment
 
+
   
 **RoboCamp@RIT  
 Rochester, NY**  
@@ -121,6 +125,7 @@ Camp Counselor
 
 - Taught K-12 campers basics of Robotics & App Design through block-based coding & hands on experience
 - Facilitated student discovery and exploration of STEAM principles in a summer camp environment
+
 
 
 ## AWARDS/RECOGNITION
