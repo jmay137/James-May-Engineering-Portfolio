@@ -15,4 +15,4 @@
 - Custom purpose-built robots
 - Experience with a variety of research robotics platforms (Baxter, Sawyer, Spot, etc)
 
-<img src="Photos/mayload overview.jpg" height="400" style="border:7px solid black"> <img src="Photos/space junk 1.png" height="400" style="border:7px solid black">
+<img src="Photos/mayload overview.jpg" height="400" style="border:7px solid black"> <img src="Photos/space junk 1.png" height="400" style="border:7px solid black"> <img src="Photos/baxter sawyer.jpg" height="400" style="border:7px solid black">
