@@ -1,4 +1,4 @@
-# [James May's Engineering Portfolio](http://vlarko.com/README)
+# [James May's Engineering Portfolio](http://vlarko.com)
 # Projects
 ## Rockets
 | [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey) | [Mayfly](http://vlarko.com/Rockets/Mayfly) | [Mayflower](http://vlarko.com/Rockets/Mayflower) |
