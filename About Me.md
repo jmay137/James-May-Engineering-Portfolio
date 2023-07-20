@@ -70,7 +70,7 @@ Avionics Build Engineering Intern
 **RIT Launch Initiative**                                    
 **Rochester, NY**  
 
-President                                                        
+President                                                     
 (May 2021 - May 2022)
 
 - Oversaw all aspects of collegiate rocketry engineering team, including administrative tasks & project team guidance
