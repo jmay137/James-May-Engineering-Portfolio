@@ -3,7 +3,7 @@
 ## Rockets
 | [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey) | [Mayfly](http://vlarko.com/Rockets/Mayfly) | [Mayflower](http://vlarko.com/Rockets/Mayflower) |
 | - | - | - |
-| <img src="Photos/FoolsJourney_1.jpg" width="300"> | <img src="Photos/L1_2.jpg" width="300"> | <img src="Photos/L2_1.jpg" width="300"> | 
+| <img src="Photos/FoolsJourney_1.jpg" width="300" style="border:7px solid black"> | <img src="Photos/L1_2.jpg" width="300" style="border:7px solid black"> | <img src="Photos/L2_1.jpg" width="300" style="border:7px solid black"> | 
 
 | [KONG](http://vlarko.com/Rockets/KONG) | [VOID](http://vlarko.com/Rockets/VOID) |
 | - | - |
