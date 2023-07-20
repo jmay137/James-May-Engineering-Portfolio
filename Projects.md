@@ -1,27 +1,18 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
 # Projects
 ## Rockets
-### [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey)
-<img src="Photos/FoolsJourney_1.jpg" height="400">
+[Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey)
 
----
+[Mayfly](http://vlarko.com/Rockets/Mayfly)
 
-### [Mayfly](http://vlarko.com/Rockets/Mayfly)
-<img src="Photos/L1_2.jpg" height="400">
+[Mayflower](http://vlarko.com/Rockets/Mayflower)
 
----
+[KONG](http://vlarko.com/Rockets/KONG)
 
-### [Mayflower](http://vlarko.com/Rockets/Mayflower)
-<img src="Photos/L2_1.jpg" height="400">
-
----
-
-| [KONG](http://vlarko.com/Rockets/KONG) | [VOID](http://vlarko.com/Rockets/VOID) |
-| - | - |
-| <img src="Photos/KONG_1.jpg" width="300"> | <img src="Photos/FoolsJourney_1.jpg" width="300"> |
+[VOID](http://vlarko.com/Rockets/VOID)
 
 ## Electronics
-| [Backplane Power Module](http://vlarko.com/Electronics/Backplane%20Power%20Module) | [Construct Badge](http://vlarko.com/Electronics/Construct%20Badge) | [Modular Light Cell](http://vlarko.com/Electronics/Modular%20Light%20Cell) |
+[Backplane Power Module](http://vlarko.com/Electronics/Backplane%20Power%20Module) | [Construct Badge](http://vlarko.com/Electronics/Construct%20Badge) | [Modular Light Cell](http://vlarko.com/Electronics/Modular%20Light%20Cell) |
 | - | - | - |
 | <img src="Photos/power mod real2.jpg" width="300"> | <img src="Photos/ConstructBadge_3.PNG" width="300"> | <img src="Photos/mlc altium 3d.png" width="300"> |
 
