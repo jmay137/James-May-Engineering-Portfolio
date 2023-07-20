@@ -1,9 +1,20 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
 # Projects
 ## Rockets
-| [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey) | [Mayfly](http://vlarko.com/Rockets/Mayfly) | [Mayflower](http://vlarko.com/Rockets/Mayflower) |
-| - | - | - |
-| <img src="Photos/FoolsJourney_1.jpg" width="300"> | <img src="Photos/L1_2.jpg" width="300"> | <img src="Photos/L2_1.jpg" width="300"> | 
+### [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey)
+<img src="Photos/FoolsJourney_1.jpg" height="400">
+
+---
+
+### [Mayfly](http://vlarko.com/Rockets/Mayfly)
+<img src="Photos/L1_2.jpg" height="400">
+
+---
+
+### [Mayflower](http://vlarko.com/Rockets/Mayflower)
+<img src="Photos/L2_1.jpg" height="400">
+
+---
 
 | [KONG](http://vlarko.com/Rockets/KONG) | [VOID](http://vlarko.com/Rockets/VOID) |
 | - | - |
