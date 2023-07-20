@@ -10,7 +10,7 @@ After spending 3 years learning the ins and outs of High Power Rocketry, I got s
 
 This spreadsheet has now been in use for over 3 years, and been used for 10+ rockets.
 
-<img src="/Photos/HPR spreadsheet 2.png" height="400" style="border:7px solid black">
+<img src="/Photos/HPR spreadsheet 3.png" height="400" style="border:7px solid black">
 
 # Calculations Included
 - Parachute Sizing
