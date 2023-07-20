@@ -56,7 +56,7 @@ Mechanical Engineering Minor - Rochester Institute of Technology
     - Limited machining experience
 
 ## WORK  & LEADERSHIP EXPERIENCE  
-**SpaceX**
+**SpaceX**         
 **Starbase, TX**
 
 Avionics Build Engineering Intern
