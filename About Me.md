@@ -58,7 +58,6 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 ## WORK  & LEADERSHIP EXPERIENCE  
 ### SpaceX      
 
-
 **Avionics Build Engineering Intern**
 
 Starbase, TX         
@@ -69,23 +68,25 @@ Starbase, TX
 
 ---
 
-### RIT Launch Initiative                                  
-**Rochester, NY**  
+### RIT Launch Initiative
 
-President                                                     
+**President**
+
 (May 2021 - May 2022)
 
 - Oversaw all aspects of collegiate rocketry engineering team, including administrative tasks & project team guidance
 - Worked with team leads, college administration, & corporate sponsors to further the team’s mission & promote growth
 
 
-Technical Lead              
+**Technical Lead**
+
 (August 2019 - May 2021)
 
 - Led multiple technical rocketry teams as part of the Space Race program
 - Taught inexperienced rocketry engineers fundamentals of high power rocketry & guided them towards success
 
-Avionics Engineer                                          
+**Avionics Engineer**
+
 (August 2018 - Present)
 
 - Developed power module for a backplane flight computer in Altium, supported from design through implementation
@@ -94,9 +95,10 @@ Avionics Engineer                                        
 ---
    
 ### Collins Aerospace                                        
-**Binghamton, NY**  
 
-Software Engineering Intern                        
+**Software Engineering Intern**
+
+Binghamton, NY            
 (June 2020 - August 2020)
 
 - Automated tedious processes by designing Python error code analysis scripts
@@ -105,9 +107,10 @@ Software Engineering Intern                      
 ---
   
 ### Renesas Electronics America                      
-**Hauppauge, NY**  
 
-Field Applications Engineering Intern                                 
+**Field Applications Engineering Intern**
+
+Hauppauge, NY            
 (May 2021 - August 2021)
 
 - Designed, manufactured, and documented projects demonstrating competitive qualities of company products
@@ -115,9 +118,10 @@ Field Applications Engineering Intern
 ---
   
 ### The Construct - RIT Makerspace                
-**Rochester, NY**  
 
-Lab Manager                                                  
+**Lab Manager**
+
+Rochester, NY            
 (August 2019 - May 2023)
 
 - Taught students proper use of machinery, manufacturing processes, and practical applications of engineering principles
@@ -126,9 +130,10 @@ Lab Manager                                              
 ---
   
 ### RoboCamp@RIT  
-**Rochester, NY**  
 
-Camp Counselor  
+**Camp Counselor**
+
+Rochester, NY          
 (Summer 2022)​
 
 - Taught K-12 campers basics of Robotics & App Design through block-based coding & hands on experience
