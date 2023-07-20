@@ -1,9 +1,14 @@
 # [Projects](http://vlarko.com/Projects)
 # Construct Badge
+
+<img src="/Photos/ConstructBadge_3.PNG" height="400" style="border:7px solid black">
+
 # Overview
 The Construct Badge is an electronic badge, to be worn at the Construct, RIT's on-campus makerspace. At the Construct, one of the things new employees must do is make their own badge, to make sure that everyone knows how to use the machines. Generally, this is done by laser cutting one out, but I decided I wanted yet another project to sink time into, so I decided to make an electronic one.   
   
 The PCB mill in the Construct was present but nonfunctional, so this project included getting that working, designing a PCB around the machine's (barely passable on a good day) tolerances, and manufacturing/assembling the PCB.
+
+<img src="/Photos/ConstructBadge_1.jpg" height="400" style="border:7px solid black">
 
 # Specifications
 - Power: 9V battery, dropped down to 5V via 7805 Regulator
@@ -11,6 +16,8 @@ The PCB mill in the Construct was present but nonfunctional, so this project inc
 - Microcontroller: Arduino Uno (For Programming LCD1602)
 - PCB Material: Copper Clad Laminate FR4
 - Constraints: Must be manufacturable on the PCB Mill, must only use parts from The Construct
+
+<img src="/Photos/ConstructBadge_4.jpg" height="400" style="border:7px solid black">
 
 # Design Process
 Going into this project, I pictured a self contained badge, controlled by an ATtiny85 integrated into the PCB that controlled the output on the screen. As it turns out, 1602LCD modules require a lot of I/O pins, more than my little ATtiny had available. My first thought was to upgrade to a more powerful microcontroller, but I wanted to do this project entirely with components found in The Construct, so I had to find an alterative solution. After reading the datasheet for the controller on the 1602 screen, I found that once it has had data written to it, it will hold whatever is on the screen, so long as it stays powered on. This gave me an idea. By using an Arduino Uno to program the text onto the screen before putting it on, I could have the screen display my name without any control from a microcontroller whatsoever. I went forward with this idea, and wrote a quick Arduino sketch to load my name and title onto the screen.   
