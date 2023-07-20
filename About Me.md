@@ -35,7 +35,7 @@ Mechanical Engineering Minor - Rochester Institute of Technology
   - PyTorch
   - Matplotlib
 - ROS/ROS 2
-- LaTeX
+- Markdown
 - MATLAB
 
 ### CERTIFICATIONS
