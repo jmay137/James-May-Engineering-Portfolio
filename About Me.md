@@ -59,7 +59,7 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 ### SpaceX      
 **Starbase, TX**
 
-Avionics Build Engineering Intern 
+Avionics Build Engineering Intern               
 (May 2023 - August 2023)
 
 - Supported avionics production through process improvements & providing manufacturability feedback to design teams
@@ -77,7 +77,7 @@ President                                                
 - Worked with team leads, college administration, & corporate sponsors to further the team’s mission & promote growth
 
 
-Technical Lead
+Technical Lead              
 (August 2019 - May 2021)
 
 - Led multiple technical rocketry teams as part of the Space Race program
