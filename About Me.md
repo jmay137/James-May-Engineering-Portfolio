@@ -65,9 +65,11 @@ Avionics Build Engineering Intern
 - Supported avionics production through process improvements & providing manufacturability feedback to design teams
 - Developed software tools in Python to support production team
 
+---
 
 **RIT Launch Initiative**                                    
 **Rochester, NY**  
+
 President                                                        
 (May 2021 - May 2022)
 
@@ -87,39 +89,43 @@ Avionics Engineer                                        
 - Developed power module for a backplane flight computer in Altium, supported from design through implementation
 - Configuration/integration of COTS avionics systems
 
-
+---
    
 **Collins Aerospace**                                         
 **Binghamton, NY**  
+
 Software Engineering Intern                        
 (June 2020 - August 2020)
 
 - Automated tedious processes by designing Python error code analysis scripts
 - Modernized helicopter flight simulator software by updating batch file installer program to Python
 
-
+---
   
 **Renesas Electronics America                      
 Hauppauge, NY**  
-Field Applications Engineering Intern
+
+Field Applications Engineering Intern                                 
 (May 2021 - August 2021)
 
 - Designed, manufactured, and documented projects demonstrating competitive qualities of company products
 
-
+---
   
 **The Construct - RIT Makerspace                
 Rochester, NY**  
+
 Lab Manager                                                  
 (August 2019 - May 2023)
 
 - Taught students proper use of machinery, manufacturing processes, and practical applications of engineering principles
 - Monitored Makerspace for safe and effective use of tools and equipment
 
-
+---
   
 **RoboCamp@RIT  
 Rochester, NY**  
+
 Camp Counselor  
 (Summer 2022)​
 
