@@ -1,6 +1,6 @@
 # [Projects](http://vlarko.com/Projects)
 # Backplane Power Module
-<img src="Photos/power mod real2.jpg" height="400" style="border:7px solid black">
+<img src="~/Photos/power mod real2.jpg" height="400" style="border:7px solid black">
 
 # Overview
 Networked power module for the RIT Launch Initiative 2022-2023 flight computer, The Backplane. 
