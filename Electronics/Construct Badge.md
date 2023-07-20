@@ -17,6 +17,8 @@ The PCB mill in the Construct was present but nonfunctional, so this project inc
 - PCB Material: Copper Clad Laminate FR4
 - Constraints: Must be manufacturable on the PCB Mill, must only use parts from The Construct
 
+<img src="/Photos/ConstructBadge_5.jpg" height="400" style="border:7px solid black">
+
 # Design Process
 Going into this project, I pictured a self contained badge, controlled by an ATtiny85 integrated into the PCB that controlled the output on the screen. As it turns out, 1602LCD modules require a lot of I/O pins, more than my little ATtiny had available. My first thought was to upgrade to a more powerful microcontroller, but I wanted to do this project entirely with components found in The Construct, so I had to find an alterative solution. After reading the datasheet for the controller on the 1602 screen, I found that once it has had data written to it, it will hold whatever is on the screen, so long as it stays powered on. This gave me an idea. By using an Arduino Uno to program the text onto the screen before putting it on, I could have the screen display my name without any control from a microcontroller whatsoever. I went forward with this idea, and wrote a quick Arduino sketch to load my name and title onto the screen.   
   
