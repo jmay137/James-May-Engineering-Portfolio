@@ -72,6 +72,7 @@ Starbase, TX
 
 **President**
 
+Rochester, NY            
 (May 2021 - May 2022)
 
 - Oversaw all aspects of collegiate rocketry engineering team, including administrative tasks & project team guidance
@@ -80,6 +81,7 @@ Starbase, TX
 
 **Technical Lead**
 
+Rochester, NY            
 (August 2019 - May 2021)
 
 - Led multiple technical rocketry teams as part of the Space Race program
@@ -87,6 +89,7 @@ Starbase, TX
 
 **Avionics Engineer**
 
+Rochester, NY            
 (August 2018 - Present)
 
 - Developed power module for a backplane flight computer in Altium, supported from design through implementation
