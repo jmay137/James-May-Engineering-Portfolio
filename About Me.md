@@ -57,9 +57,10 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 
 ## WORK  & LEADERSHIP EXPERIENCE  
 ### SpaceX      
-**Starbase, TX**
 
-Avionics Build Engineering Intern               
+
+**Avionics Build Engineering Intern**
+Starbase, TX
 (May 2023 - August 2023)
 
 - Supported avionics production through process improvements & providing manufacturability feedback to design teams
