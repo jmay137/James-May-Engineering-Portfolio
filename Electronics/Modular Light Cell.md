@@ -30,7 +30,7 @@ Based off the LTspice simulation, a 200ohm resistor would be sufficient for both
   
 After this, the component layout & routing was done. Fortunately, since the traces would only be DC (barring any potential low-speed PWM signals from the CTRL input), not many considerations had to be made for RF. The design only required 2 vias to make all necessary connections.
 
-<img src="/Photos/mlc schematic transistor switch.png" height="400" style="border:7px solid black">
+<img src="/Photos/mlc schematic led array.png" height="400" style="border:7px solid black">
 
 # Manufacturing and Final Results
 After the design was completed, the board was exported as Gerber files and sent to JLCPCB for manufacture, as well as SMT assembly of the surface mount resistors. 5 prototypes were received, soldered, and work beautifully! 
