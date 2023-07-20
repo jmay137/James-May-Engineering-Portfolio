@@ -1,5 +1,12 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
 # Projects
+## Electronics
+[Backplane Power Module](http://vlarko.com/Electronics/Backplane%20Power%20Module)
+
+[Construct Badge](http://vlarko.com/Electronics/Construct%20Badge)
+
+[Modular Light Cell](http://vlarko.com/Electronics/Modular%20Light%20Cell)
+
 ## Rockets
 [Fool's Journey](http://vlarko.com/Rockets/Fool's%20Journey)
 
@@ -10,13 +17,6 @@
 [KONG](http://vlarko.com/Rockets/KONG)
 
 [VOID](http://vlarko.com/Rockets/VOID)
-
-## Electronics
-[Backplane Power Module](http://vlarko.com/Electronics/Backplane%20Power%20Module)
-
-[Construct Badge](http://vlarko.com/Electronics/Construct%20Badge)
-
-[Modular Light Cell](http://vlarko.com/Electronics/Modular%20Light%20Cell)
 
 ## Robotics
 [Autonomous Space Junk Collection](http://vlarko.com/Robotics/Autonomous%20Space%20Junk%20Collection)
