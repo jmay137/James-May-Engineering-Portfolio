@@ -56,10 +56,10 @@ Mechanical Engineering Minor - Rochester Institute of Technology
     - Limited machining experience
 
 ## WORK  & LEADERSHIP EXPERIENCE  
-**SpaceX**         
+### SpaceX      
 **Starbase, TX**
 
-Avionics Build Engineering Intern
+Avionics Build Engineering Intern 
 (May 2023 - August 2023)
 
 - Supported avionics production through process improvements & providing manufacturability feedback to design teams
@@ -67,7 +67,7 @@ Avionics Build Engineering Intern
 
 ---
 
-**RIT Launch Initiative**                                    
+### RIT Launch Initiative                                  
 **Rochester, NY**  
 
 President                                                     
@@ -91,7 +91,7 @@ Avionics Engineer                                        
 
 ---
    
-**Collins Aerospace**                                         
+### Collins Aerospace                                        
 **Binghamton, NY**  
 
 Software Engineering Intern                        
@@ -102,8 +102,8 @@ Software Engineering Intern                      
 
 ---
   
-**Renesas Electronics America                      
-Hauppauge, NY**  
+### Renesas Electronics America                      
+**Hauppauge, NY**  
 
 Field Applications Engineering Intern                                 
 (May 2021 - August 2021)
@@ -112,8 +112,8 @@ Field Applications Engineering Intern
 
 ---
   
-**The Construct - RIT Makerspace                
-Rochester, NY**  
+### The Construct - RIT Makerspace                
+**Rochester, NY**  
 
 Lab Manager                                                  
 (August 2019 - May 2023)
@@ -123,8 +123,8 @@ Lab Manager                                              
 
 ---
   
-**RoboCamp@RIT  
-Rochester, NY**  
+### RoboCamp@RIT  
+**Rochester, NY**  
 
 Camp Counselor  
 (Summer 2022)​
