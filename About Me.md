@@ -60,7 +60,8 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 
 
 **Avionics Build Engineering Intern**
-Starbase, TX
+
+Starbase, TX         
 (May 2023 - August 2023)
 
 - Supported avionics production through process improvements & providing manufacturability feedback to design teams
