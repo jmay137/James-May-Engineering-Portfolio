@@ -2,7 +2,8 @@
 5th year student at Rochester Institute of Technology, working towards a BS & MS in Electrical Engineering with a Robotics option, as well as a minor in Mechanical Engineering. Currently on track to complete both degrees by 2023. Specific interests in Aerospace, Rocketry, Circuit Design, Avionics Systems, Robotics, AI/ML, and Space Exploration. 
 
 ## Electronics
-- Schematic layout and PCB design for Avionics Systems in Altium
+- Schematic layout and PCB design in Altium
+- One-off boards, avionics power systems, & DIY board fabrication projects
 
 <img src="Photos/power mod real2.jpg" height="400" style="border:7px solid black"> <img src="Photos/ConstructBadge_3.PNG" height="400" style="border:7px solid black"> <img src="Photos/mlc altium 3d.png" height="400" style="border:7px solid black">
 
