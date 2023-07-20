@@ -27,4 +27,4 @@ The PCB mill had it's own set of challenges. It required a lot of TLC to get run
 <img src="/Photos/ConstructBadge_4.jpg" height="400" style="border:7px solid black">
 
 # Manufacturing & Final Results
-In the end the PCB mill got up and running, and I was able to successfully build a badge. Once I got it done I realized that with the screen I had chosen & the 9V battery, it was much too heavy to be used as a badge. So while the end result did work, I decided not to use it as my badge.
+In the end the PCB mill got up and running, and I was able to successfully build a badge. Once I got it done I realized that with the screen I had chosen & the 9V battery, it was much too heavy to be used as a badge. So while the end result did work, I decided not to use it.
