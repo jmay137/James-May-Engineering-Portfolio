@@ -16,11 +16,11 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 - ​CAD in Autodesk Fusion 360
 - PCB design in Altium
    - Low level power system design
-   - Schematic capture through ordering assembled boards
+   - From schematic capture through ordering assembled boards
 - PCB manufacturing in FlatCAM
 - Circuit simulation in LTSpice
 - High power rocket design in OpenRocket  
-- 3d-print optimization in Cura/Flashprint
+- 3d-print slicing in Cura/Flashprint
 - Vector graphic design in Inkscape
 
   
@@ -56,13 +56,23 @@ Mechanical Engineering Minor - Rochester Institute of Technology
     - Limited machining experience
 
 ## WORK  & LEADERSHIP EXPERIENCE  
-**RIT Launch Initiative                                    
-Rochester, NY**  
+**SpaceX**
+**Starbase, TX**
+Avionics Build Engineering Intern
+(May 2023 - August 2023)
+
+- Supported avionics production through process improvements & providing manufacturability feedback to design teams
+- Developed software tools in Python to support production team
+
+
+**RIT Launch Initiative**                                    
+**Rochester, NY**  
 President                                                        
 (May 2021 - May 2022)
 
-- Oversee all aspects of collegiate rocketry engineering team, including administrative tasks & project team guidance
-- Work with team leads, college administration, and corporate sponsors to further the team’s mission & promote growth
+- Oversaw all aspects of collegiate rocketry engineering team, including administrative tasks & project team guidance
+- Worked with team leads, college administration, & corporate sponsors to further the team’s mission & promote growth
+
 
 Technical Lead
 (August 2019 - May 2021)
@@ -73,7 +83,7 @@ Technical Lead
 Avionics Engineer                                          
 (August 2018 - Present)
 
-- Hardware design for ground station
+- Developed power module for a backplane flight computer in Altium, supported from design through implementation
 - Configuration/integration of COTS avionics systems
 
    
@@ -84,7 +94,7 @@ Software Engineering Intern                      
 
 - Automated tedious processes by designing Python error code analysis scripts
 - Modernized helicopter flight simulator software by updating batch file installer program to Python
-- Repaired/updated helicopter flight simulator code to resolve bugs & add functionality
+
 
   
 **Renesas Electronics America                      
@@ -93,16 +103,15 @@ Field Applications Engineering Intern
 (May 2021 - August 2021)
 
 - Designed, manufactured, and documented projects demonstrating competitive qualities of company products
-- Conducted competitive analyses on semiconductor products
 
   
 **The Construct - RIT Makerspace                
 Rochester, NY**  
 Lab Manager                                                  
-(August 2019 - Present)
+(August 2019 - May 2023)
 
-- Teach students proper use of machinery, manufacturing processes, and practical applications of engineering principles
-- Monitor Makerspace for safe and effective use of tools and equipment
+- Taught students proper use of machinery, manufacturing processes, and practical applications of engineering principles
+- Monitored Makerspace for safe and effective use of tools and equipment
 
   
 **RoboCamp@RIT  
@@ -118,4 +127,4 @@ Camp Counselor
 
 - RIT Honors Program member​
 
-GPA: 3.82/4.00
+GPA: 3.89/4.00
