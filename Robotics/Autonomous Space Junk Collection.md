@@ -3,6 +3,5 @@
 
 <img src="/Photos/space junk 1.png" height="400" style="border:7px solid black">
 
-https://www.youtube.com/watch?v=UMbzJc0y_CM
 
 [test](https://www.youtube.com/watch?v=UMbzJc0y_CM)
