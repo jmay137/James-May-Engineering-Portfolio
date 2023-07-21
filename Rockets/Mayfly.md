@@ -18,6 +18,8 @@ Mayfly was the first of my High Power Rocketry certification rockets. It is an L
 - Airframe Diameter: 3"
 - Length: 3' 9.2"
 
+<img src="/Photos/mayfly onboard.png" height="400" style="border:7px solid black">
+
 # Flight
 On September 8th, 2019, I was finally able to launch Mayfly. It was launch at the URRG launch site in Penn Yan, NY. It went up approximately 2000 feet, deployed a parachute, and came down in one piece. This gave me my L1 certification, and enabled me to start work on my L2, Mayflower.  
   
