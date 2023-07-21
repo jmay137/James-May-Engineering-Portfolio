@@ -18,6 +18,8 @@ Each module was assigned to an avionics hardware engineer on the team, and my mo
 - Ethernet communication capability via a WIZnet W5500 chip
 - Team project documentation page [here](https://wiki.rit.edu/display/ritlaunch/Power+Module+-+Backplane)
 
+To help ensure the switchers would function as designed, each circuit was simulated using TI's WEBENCH Power Designer. Each switcher showed a ripple under 20mV pk-pk, which would be validated by ordering prototypes.
+
 <img src="/Photos/power mod backplane.jpg" height="400" style="border:7px solid black">
 
 # Final Results
