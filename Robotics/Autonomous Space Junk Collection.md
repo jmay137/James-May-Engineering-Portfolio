@@ -10,6 +10,8 @@ The goal of this project is to use an existing robotic arm platform (Sawyer) to 
 
 A Deep RL based grasp estimation approach can be used to create a solution to this problem. The camera feed from Sawyer’s built in arm camera would be fed to a trained Deep RL model, which would output a 4 DoF antipodal grasp position for the Sawyer robot to execute. From there doing Deep RL in a simulated space environment in CoppeliaSim would solve the grasp estimation problem, and a trained net could be produced.
 
+Full IEEE format paper here: [Paper](
+
 # Specifications
 - Sawyer used as robotic arm platform
 - Stable Baselines3 implementation of Proximal Policy Optimization is used to perform RL
