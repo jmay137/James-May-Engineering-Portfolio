@@ -59,7 +59,9 @@ Since this robot was a prototype, its looks definitely reflect that. All electro
 
 # Final Results
 Below is a video demonstrating the robot's capabilities, which was a requirement of the project.  
-  
+
+[Mayload Video](https://www.youtube.com/watch?v=HoYTy1lswvo)
+
 Moving forward if I were to continue working on this robot, here are some of the changes that would be made:
 
 - Add a third hip joint to allow quadpod locomotion after landing
