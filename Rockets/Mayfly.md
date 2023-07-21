@@ -24,4 +24,5 @@ Mayfly was the first of my High Power Rocketry certification rockets. It is an L
 On September 8th, 2019, I was finally able to launch Mayfly. It was launch at the URRG launch site in Penn Yan, NY. It went up approximately 2000 feet, deployed a parachute, and came down in one piece. This gave me my L1 certification, and enabled me to start work on my L2, Mayflower.  
 
 [Flight Footage](https://youtube.com/shorts/TSnW5dhCWTU?feature=share)
+
 [Onboard Footage](https://youtu.be/zKrUyh8RTNM)
