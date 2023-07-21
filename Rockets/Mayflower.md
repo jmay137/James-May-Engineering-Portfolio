@@ -20,7 +20,7 @@ it was designed to go together easy, with primarily Commercial Off The Shelf (CO
 - Max Velocity: Mach 0.32 (353 ft/s)
 - Airframe Diameter: 4"
 
-<img src="/Photos/mayflower av bay.PNG" height="400" style="border:7px solid black">
+<img src="/Photos/mayflower av bay.jpg" height="400" style="border:7px solid black">
 
 # Avionics
 The Avionics used were two Eggtimer Quark flight computers, in a dual redundant configuration. This meant that each quark had it's own power source, and it's own set of Drogue and Main ejection charges. I calculated the charges so that the primary charges would pressurize their respective bay to 10 PSI, and the secondary charges would bring the bay to 15 PSI. My thinking was if 10 PSI wouldn't separate the bay, or if the primary didn't blow, 15 PSI definitely would do it.  
