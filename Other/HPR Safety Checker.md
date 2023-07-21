@@ -12,7 +12,7 @@ One of the parameters calculated is Stability, which requires your center of pre
 ​Once stability and a number of other parameters are checked, the software lets you know if your rocket is deemed theoretically safe to fly or not.
 
 Specifications:
-- Written in c++
+- Written in C++
 - Utilizes OOP for tracking rocket parameters
 
   
