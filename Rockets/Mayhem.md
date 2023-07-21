@@ -1,5 +1,4 @@
-# Projects
-
+# [Projects](http://vlarko.com/Projects)
 # Mayhem
 
 <img src="/Photos/Mayhem Glamour Shot.png" height="400" style="border:7px solid black">
