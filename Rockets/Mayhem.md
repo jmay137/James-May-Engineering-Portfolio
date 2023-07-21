@@ -11,7 +11,7 @@ Mayhem is roughly 7.5 feet tall, with a fully fiberglass airframe, and dual redu
   
 If it goes up and comes down successfully, I will get the highest Tripoli rocketry certification level you can achieve: Level 3. If it fails, I have to build another and try again.
 
-<img src="/Photos/Mayhem OpenRocket.JPG" height="250" style="border:7px solid black">
+<img src="/Photos/Mayhem Openrocket.JPG" height="250" style="border:7px solid black">
 
 # Specifications
 - Level 3 High Power Rocket
