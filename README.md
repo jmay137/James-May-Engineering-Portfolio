@@ -7,7 +7,7 @@
 - Schematic layout and PCB design in Altium
 - One-off boards, avionics power systems, & DIY board fabrication projects
 
-<img src="Photos/power mod real2.jpg" height="400" style="border:7px solid black"> <img src="Photos/ConstructBadge_3.PNG" height="400" style="border:7px solid black"> <img src="Photos/mlc altium 3d.png" height="400" style="border:7px solid black">
+<img src="Photos/power mod real2.jpg" height="400" style="border:3px solid black"> <img src="Photos/ConstructBadge_3.PNG" height="400" style="border:3px solid black"> <img src="Photos/mlc altium 3d.png" height="350" style="border:3px solid black">
 
 ## Rockets
 - Certification rockets, team built competition rockets, and technical demonstrators
