@@ -1,7 +1,10 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
 # About Me
 5th year student at Rochester Institute of Technology, working towards a BS & MS in Electrical Engineering with a Robotics option, as well as a minor in Mechanical Engineering. Currently on track to complete both degrees by 2023. Specific interests in Aerospace, Rocketry, Circuit Design, Avionics Systems, Robotics, AI/ML, and Space Exploration.
-## EDUCATION 
+
+<details>
+# <summary>EDUCATION</summary>
+
 ### Completed
 Advanced Regents Diploma with Honors - Oswego High School
 
@@ -11,6 +14,11 @@ MS Electrical Engineering - Rochester Institute of Technology
 ​  
 Mechanical Engineering Minor - Rochester Institute of Technology  
 ​ASL Immersion - Rochester Institute of Technology
+
+</details>
+
+## EDUCATION 
+
 
 ## SKILLS  
 ### DESIGN
