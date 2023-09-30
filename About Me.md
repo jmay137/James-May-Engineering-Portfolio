@@ -32,8 +32,6 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 - Vector graphic design in Inkscape
 - Solid Python background
 
-</details>
-
 ### PROGRAMMING
 - C
 - C++
@@ -47,6 +45,29 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 - ROS/ROS 2
 - Markdown
 - MATLAB
+
+</details>
+
+<details>
+<summary>EDUCATION</summary>
+
+
+
+</details>
+
+<details>
+<summary>EDUCATION</summary>
+
+
+
+</details>
+
+<details>
+<summary>EDUCATION</summary>
+
+
+
+</details>
 
 ### CERTIFICATIONS
 - Tripoli L2 High Power Rocket Certified
