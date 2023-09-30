@@ -17,7 +17,9 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 
 </details>
 
-## SKILLS  
+<details>
+<summary>SKILLS</summary>
+
 ### DESIGN
 - ​CAD in Autodesk Fusion 360
 - PCB design in Altium
@@ -30,7 +32,8 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 - Vector graphic design in Inkscape
 - Solid Python background
 
-  
+</details>
+
 ### PROGRAMMING
 - C
 - C++
