@@ -1,19 +1,14 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
 # About Me
-5th year student at Rochester Institute of Technology, working towards a BS & MS in Electrical Engineering with a Robotics option, as well as a minor in Mechanical Engineering. Currently on track to complete both degrees by 2023. Specific interests in Aerospace, Rocketry, Circuit Design, Avionics Systems, Robotics, AI/ML, and Space Exploration.
+Electrical Engineer at SpaceX, working avionics component development on the Starship Program. Bachelor's & Master's degree in Electrical Engineering with Robotics option from Rochester Institute of Technology. Interested in Aerospace, Rocketry, & Robotics.
 
 <details>
 <summary>EDUCATION</summary>
-
-### Completed
-Advanced Regents Diploma with Honors - Oswego High School
-
-### Currently Pursuing
-BS Electrical Engineering - Rochester Institute of Technology  
-MS Electrical Engineering - Rochester Institute of Technology  
-​  
+MS Electrical Engineering - Rochester Institute of Technology
+BS Electrical Engineering - Rochester Institute of Technology
 Mechanical Engineering Minor - Rochester Institute of Technology  
 ​ASL Immersion - Rochester Institute of Technology
+Advanced Regents Diploma with Honors - Oswego High School
 
 </details>
 
@@ -35,12 +30,8 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 ### PROGRAMMING
 - C
 - C++
-- Embedded C
 - Python
   - Numpy
-  - Pandas
-  - PyQT6
-  - PyTorch
   - Matplotlib
 - ROS/ROS 2
 - Markdown
@@ -70,13 +61,8 @@ Mechanical Engineering Minor - Rochester Institute of Technology
 </details>
 
 ### CERTIFICATIONS
-- Tripoli L2 High Power Rocket Certified
+- Tripoli L2 High Power Rocket Certification
 - Amateur Radio Technician’s License
-
-### SOFT SKILLS
-- Leadership experience
-- Self-motivated​
-- Willing to learn
 
 ### OTHER SKILLS
 - Familiarity with both Linux and Windows operating systems
