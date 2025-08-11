@@ -2,30 +2,19 @@
 # About Me
 Electrical Engineer at SpaceX, working avionics component development on the Starship Program. Bachelor's & Master's degree in Electrical Engineering with Robotics option from Rochester Institute of Technology. Interested in Aerospace, Rocketry, & Robotics.
 
-### EDUCATION
-MS Electrical Engineering - Rochester Institute of Technology
+## EDUCATION
+### MS Electrical Engineering - Rochester Institute of Technology
+### BS Electrical Engineering - Rochester Institute of Technology
+### Mechanical Engineering Minor - Rochester Institute of Technology 
+​### ASL Immersion - Rochester Institute of Technology
+### Advanced Regents Diploma with Honors - Oswego High School
 
-BS Electrical Engineering - Rochester Institute of Technology
+## DESIGN
+- Proficient in Altium for ECAD
+- Working knowledge of KiCAD for ECAD
+- Proficient in Fusion 360 for CAD
 
-Mechanical Engineering Minor - Rochester Institute of Technology 
-
-​ASL Immersion - Rochester Institute of Technology
-
-Advanced Regents Diploma with Honors - Oswego High School
-
-### DESIGN
-- ​CAD in Autodesk Fusion 360
-- PCB design in Altium
-   - Low level power system design
-   - From schematic capture through ordering assembled boards
-- PCB manufacturing in FlatCAM
-- Circuit simulation in LTSpice
-- High power rocket design in OpenRocket  
-- 3d-print slicing in Cura/Flashprint
-- Vector graphic design in Inkscape
-- Solid Python background
-
-### PROGRAMMING
+## PROGRAMMING
 - C
 - C++
 - Python
@@ -35,19 +24,31 @@ Advanced Regents Diploma with Honors - Oswego High School
 - Markdown
 - MATLAB
 
-### CERTIFICATIONS
+## CERTIFICATIONS
 - Tripoli L2 High Power Rocket Certification
 - Amateur Radio Technician’s License
 
-### OTHER SKILLS
-- Familiarity with both Linux and Windows operating systems
-- Hand soldering capability down to SMD level
+## OTHER SKILLS
+- Familiarity with Linux and Windows operating systems
+- Hand soldering capability down to SMT level
 - Experience in rapid prototyping
     - Laser cutting
     - FDM 3D printing
     - Limited machining experience
 
-## WORK  & LEADERSHIP EXPERIENCE  
+## WORK EXPERIENCE
+### SpaceX
+
+**Electrical Engineer (Starship)**
+
+Starbase, TX         
+(March 2024 - Present)
+
+- Cradle to grave Responsible Engineer ownership of legacy avionics components & new developments
+- Full electrical design from requirements capture through production of avionics systems for flight & hardware-in-the-loop applications
+- Schematic capture, PCB layout, bring-up & test of new avionics components
+
+## COLLEGIATE INTERNSHIP & LEADERSHIP EXPERIENCE  
 ### SpaceX      
 
 **Avionics Build Engineering Intern**
