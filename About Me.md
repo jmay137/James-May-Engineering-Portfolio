@@ -54,7 +54,7 @@ Starbase, TX
 - Full electrical design from requirements capture through production of avionics systems for flight & hardware-in-the-loop applications
 - Schematic capture, PCB layout, bring-up & test of new avionics components
 
-## COLLEGIATE INTERNSHIP & LEADERSHIP EXPERIENCE  
+## COLLEGIATE INTERNSHIPS & LEADERSHIP EXPERIENCE  
 ### SpaceX      
 
 **Avionics Build Engineering Intern**
