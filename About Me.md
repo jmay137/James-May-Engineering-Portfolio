@@ -146,5 +146,4 @@ Rochester, NY
 ## AWARDS/RECOGNITION
 
 - RIT Honors Program member​
-
-GPA: 3.89/4.00
+- GPA: 3.89/4.00
