@@ -4,7 +4,7 @@
 Electrical Engineer at SpaceX, working avionics component development on the Starship Program. Bachelor's & Master's degree in Electrical Engineering with Robotics option from Rochester Institute of Technology. Interested in Aerospace, Rocketry, & Robotics.
 
 # Personal Projects
-## TBD
+### TBD
 - Will do when I have free time
 
 # Collegiate Projects
