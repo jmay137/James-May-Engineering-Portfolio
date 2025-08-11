@@ -2,18 +2,16 @@
 # About Me
 Electrical Engineer at SpaceX, working avionics component development on the Starship Program. Bachelor's & Master's degree in Electrical Engineering with Robotics option from Rochester Institute of Technology. Interested in Aerospace, Rocketry, & Robotics.
 
-<details>
-<summary>EDUCATION</summary>
+### EDUCATION
 MS Electrical Engineering - Rochester Institute of Technology
+
 BS Electrical Engineering - Rochester Institute of Technology
-Mechanical Engineering Minor - Rochester Institute of Technology  
+
+Mechanical Engineering Minor - Rochester Institute of Technology 
+
 ​ASL Immersion - Rochester Institute of Technology
+
 Advanced Regents Diploma with Honors - Oswego High School
-
-</details>
-
-<details>
-<summary>SKILLS</summary>
 
 ### DESIGN
 - ​CAD in Autodesk Fusion 360
@@ -36,29 +34,6 @@ Advanced Regents Diploma with Honors - Oswego High School
 - ROS/ROS 2
 - Markdown
 - MATLAB
-
-</details>
-
-<details>
-<summary>EDUCATION</summary>
-
-
-
-</details>
-
-<details>
-<summary>EDUCATION</summary>
-
-
-
-</details>
-
-<details>
-<summary>EDUCATION</summary>
-
-
-
-</details>
 
 ### CERTIFICATIONS
 - Tripoli L2 High Power Rocket Certification
