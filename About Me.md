@@ -4,16 +4,13 @@ Electrical Engineer at SpaceX, working on avionics component development for the
 
 ## EDUCATION
 ### Rochester Institute of Technology
-Master of Science in Electrical Engineering
-
-Bachelor of Science in Electrical Engineering
-
-Minor in Mechanical Engineering
-
-Immersion in American Sign Language
+- Master of Science in Electrical Engineering
+- Bachelor of Science in Electrical Engineering
+- Minor in Mechanical Engineering
+- Immersion in American Sign Language
 
 ### Oswego High School
-Advanced Regents Diploma with Honors
+- Advanced Regents Diploma with Honors
 
 ## DESIGN
 - Proficient in Altium for ECAD
