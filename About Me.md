@@ -24,7 +24,6 @@ Electrical Engineer at SpaceX, working on avionics component development for the
   - Numpy
   - Matplotlib
 - ROS/ROS 2
-- Markdown
 - MATLAB
 
 ## CERTIFICATIONS
