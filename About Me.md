@@ -46,11 +46,11 @@ Electrical Engineer at SpaceX, working on avionics component development for the
 Starbase, TX         
 (March 2024 - Present)
 
-- Cradle to grave Responsible Engineer ownership of legacy avionics components & new developments
+- Ownership of legacy avionics components & new developments
 - Full electrical design from requirements capture through production of avionics systems for flight & hardware-in-the-loop applications
 - Schematic capture, PCB layout, bring-up & test of new avionics components
 
-## COLLEGIATE INTERNSHIPS & LEADERSHIP EXPERIENCE  
+## INTERNSHIPS & LEADERSHIP EXPERIENCE  
 ### SpaceX      
 
 **Avionics Build Engineering Intern**
