@@ -1,6 +1,6 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
 # About Me
-Electrical Engineer at SpaceX, working avionics component development on the Starship Program. Bachelor's & Master's degree in Electrical Engineering with Robotics option from Rochester Institute of Technology. Interested in Aerospace, Rocketry, & Robotics.
+Electrical Engineer at SpaceX, working on avionics component development for the Starship program. Bachelor's & Master's degree in Electrical Engineering (with Robotics option) from Rochester Institute of Technology.
 
 ## EDUCATION
 ### Rochester Institute of Technology
