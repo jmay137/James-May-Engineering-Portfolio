@@ -1,4 +1,4 @@
-# [Projects](http://vlarko.com/Projects)
+# [College Projects Archive](http://vlarko.com/Projects)
 # HPR Calculations Spreadsheet
 
 <img src="/Photos/HPR spreadsheet 1.png" height="400" style="border:7px solid black">
