@@ -1,7 +1,7 @@
 # James May's Engineering Portfolio
 
 # [Current Projects](http://vlarko.com/CurrentProjects) | [College Projects Archive](http://vlarko.com/Projects)
-Current electrical engineer at Draper Laboratory. Previous electrical Engineer at SpaceX, working on avionics component development for the Starship program. Bachelor's & Master's degree in Electrical Engineering (with Robotics option) from Rochester Institute of Technology.
+Electrical engineer at Draper Laboratory. Previously an electrical Engineer at SpaceX, working on avionics component development for the Starship program. Bachelor's & Master's degree in Electrical Engineering (with Robotics option) from Rochester Institute of Technology.
 # Current Project
 ### Custom robot actuator
 <img src="Photos/power mod real2.jpg" height="400" style="border:3px solid black">
