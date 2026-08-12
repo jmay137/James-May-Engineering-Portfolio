@@ -1,5 +1,5 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
-# [Current Projects](http://vlarko.com/CurrentProjects) | College Projects Archive  |  [About Me](http://vlarko.com/About%20Me)
+# [Current Projects](http://vlarko.com/CurrentProjects) | College Projects Archive
 # College Projects Archive
 
 ## Electronics
