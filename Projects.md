@@ -19,7 +19,6 @@
 
 [KONG](http://vlarko.com/Rockets/KONG)
 
-
 ## Robotics
 [Autonomous Space Junk Collection](http://vlarko.com/Robotics/Autonomous%20Space%20Junk%20Collection)
 
