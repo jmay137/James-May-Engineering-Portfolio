@@ -1,4 +1,4 @@
-# [Projects](http://vlarko.com/Projects)
+# [College Projects Archive](http://vlarko.com/Projects)
 # Modular Light Cell
 
 <img src="/Photos/mlc altium 3d.png" height="400" style="border:7px solid black">
