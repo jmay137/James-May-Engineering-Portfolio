@@ -1,3 +1,3 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
 # Current Projects
-[Humanoid Robot](http://vlarko.com/Electronics/Backplane%20Power%20Module)
+[Humanoid Robot](https://github.com/jay-maybe/robot)
