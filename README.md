@@ -2,9 +2,6 @@
 
 # [Current Projects](http://vlarko.com/CurrentProjects) | [College Projects Archive](http://vlarko.com/Projects)
 I'm currently an electrical engineer at Draper Laboratory. Previously I was an electrical Engineer at SpaceX, working on avionics component development for the Starship program. Bachelor's & Master's degree in Electrical Engineering (with Robotics option) from Rochester Institute of Technology.
-# Current Project
-- Custom actuator for humanoid robot
-<img src="Photos/power mod real2.jpg" height="400" style="border:3px solid black">
 
 # College Projects
 ### ELECTRONICS
@@ -16,10 +13,10 @@ I'm currently an electrical engineer at Draper Laboratory. Previously I was an e
 ### ROCKETS
 - Certification rockets, team built competition rockets, and technical demonstrators
 
-<img src="Photos/FoolsJourney_1.jpg" height="400" style="border:7px solid black"> <img src="Photos/L1_2.jpg" height="400" style="border:7px solid black"> <img src="Photos/L2_1.jpg" height="400" style="border:7px solid black">
+<img src="Photos/FoolsJourney_1.jpg" height="400" style="border:3px solid black"> <img src="Photos/L1_2.jpg" height="400" style="border:3px solid black"> <img src="Photos/L2_1.jpg" height="400" style="border:3px solid black">
 
 ### ROBOTICS
 - Custom purpose-built robots
 - Experience with a variety of research robotics platforms (Baxter, Sawyer, Spot, etc)
 
-<img src="Photos/mayload overview.jpg" height="400" style="border:7px solid black"> <img src="Photos/space junk 1.png" height="400" style="border:7px solid black">
+<img src="Photos/mayload overview.jpg" height="400" style="border:3px solid black"> <img src="Photos/space junk 1.png" height="400" style="border:3px solid black">
