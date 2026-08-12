@@ -1,4 +1,4 @@
-# [Projects](http://vlarko.com/Projects)
+# [College Projects Archive](http://vlarko.com/Projects)
 # Autonomous Space Junk Collector
 
 <img src="/Photos/space junk 1.png" height="400" style="border:7px solid black">
