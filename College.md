@@ -1,4 +1,5 @@
-# Collegiate Projects
+# [James May's Engineering Portfolio](http://vlarko.com)
+# College Projects
 ### ELECTRONICS
 - Schematic layout and PCB design in Altium
 - One-off boards, avionics power systems, & DIY board fabrication projects
