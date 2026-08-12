@@ -1,4 +1,4 @@
-# [Projects](http://vlarko.com/Projects)
+# [College Projects Archive](http://vlarko.com/Projects)
 # KONG
 
 <img src="/Photos/KONG_1.jpg" height="400" style="border:7px solid black">
