@@ -1,10 +1,5 @@
 # [James May's Engineering Portfolio](http://vlarko.com)
-# Current Projects
-[Robot Actuator](http://vlarko.com/Electronics/Backplane%20Power%20Module)
-
-
-
-# College Projects Archive
+# [Current Projects](http://vlarko.com/CurrentProjects) | College Projects Archive  |  [About Me](http://vlarko.com/About%20Me)
 
 ## Electronics
 [Backplane Power Module](http://vlarko.com/Electronics/Backplane%20Power%20Module)
