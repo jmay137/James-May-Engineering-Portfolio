@@ -1,4 +1,4 @@
-# [Projects](http://vlarko.com/Projects)
+# [College Projects Archive](http://vlarko.com/Projects)
 # Mayflower
 
 <img src="/Photos/L2_1.jpg" height="400" style="border:7px solid black">
