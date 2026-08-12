@@ -3,7 +3,7 @@
 # [Current Projects](http://vlarko.com/CurrentProjects) | [College Projects Archive](http://vlarko.com/Projects)
 I'm currently an electrical engineer at Draper Laboratory. Previously I was an electrical Engineer at SpaceX, working on avionics component development for the Starship program. Bachelor's & Master's degree in Electrical Engineering (with Robotics option) from Rochester Institute of Technology.
 # Current Project
-### Custom robot actuator
+- Custom actuator for humanoid robot
 <img src="Photos/power mod real2.jpg" height="400" style="border:3px solid black">
 
 # College Projects
