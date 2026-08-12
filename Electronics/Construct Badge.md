@@ -1,4 +1,4 @@
-# [Projects](http://vlarko.com/Projects)
+# [College Projects Archive](http://vlarko.com/Projects)
 # Construct Badge
 
 <img src="/Photos/ConstructBadge_3.PNG" height="400" style="border:7px solid black">
